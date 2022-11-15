@@ -1,6 +1,6 @@
 # App Name
 
-> Here goes the app description.
+> Here goes the app description
 
 ## Built With
 
