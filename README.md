@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/-Yazino12-yellow)
+
 # App Name
 
 > Here goes the app description
